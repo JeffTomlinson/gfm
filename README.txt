@@ -1,7 +1,7 @@
 gfm
 ===
 
-Github Flavored Markup filter for Drupal
+Github Flavored Markdown filter for Drupal
 
 Expands upon johnnybgoode's sandbox project found here: 
 https://drupal.org/sandbox/johnnybgoode/1462208
