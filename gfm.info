@@ -1,0 +1,8 @@
+name = Github Flavored Markdown
+description = Provide Github flavored markdown tweaks http://github.github.com/github-flavored-markdown/
+package = Input filters
+core = 7.x
+dependencies[] = filter
+dependencies[] = markdown
+files[] = gfm.module
+
